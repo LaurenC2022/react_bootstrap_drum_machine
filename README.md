@@ -98,6 +98,14 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+To prepare for building this project, I took notes on React 18 Bootstrap 5, Javascript, HTML, CSS and Git. I am continiously learning to keep my skills up to date with new trends in technology while I build new projects. I appreciate the learning platforms and instructors found at the links below:
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- [Frontend Masters' React 18 Course by Brian Holt](https://frontendmasters.com/courses/complete-react-v8/)
+- [Plural Sight's React 18 course by Roland Guijt](https://www.pluralsight.com/courses/react-18-fundamentals)
+- Udemy's Bootstrap 5 course by
+- [Frontend Masters' Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) - Practice in HTML, CSS, Javascript and more
+- [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+
+Books and Readings:
+
+- [Building in Public by Nadia Eghbal](https://www.audible.com/pd/Working-in-Public-Audiobook/B08KWQ1G7X?action_code=ASSGB149080119000H&share_location=pdp) (Chapter 2 - 4) - This book helped me better understand the history, and present use cases of open source technologies. I am reading this book as part of a Virtual Coffee book club
