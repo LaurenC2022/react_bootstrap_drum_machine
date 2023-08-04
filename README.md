@@ -102,7 +102,7 @@ To prepare for building this project, I took notes on React 18 Bootstrap 5, Java
 
 - [Frontend Masters' React 18 Course by Brian Holt](https://frontendmasters.com/courses/complete-react-v8/)
 - [Plural Sight's React 18 course by Roland Guijt](https://www.pluralsight.com/courses/react-18-fundamentals)
-- Udemy's Bootstrap 5 course by
+- [Udemy's Bootstrap 5 course by Jeppe Schaumburg Jensen](www.udemy.com/course/bootstrap-5-responsive-web-design-and-development)
 - [Frontend Masters' Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) - Practice in HTML, CSS, Javascript and more
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
 
